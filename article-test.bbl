@@ -1,0 +1,92 @@
+\begin{thebibliography}{10}
+
+\bibitem{9737357}
+Fan Liu, Yuanhao Cui, Christos Masouros, Jie Xu, Tony~Xiao Han, Yonina~C.
+  Eldar, and Stefano Buzzi.
+\newblock Integrated sensing and communications: Toward dual-functional
+  wireless networks for 6g and beyond.
+\newblock {\em IEEE Journal on Selected Areas in Communications},
+  40(6):1728--1767, 2022.
+
+\bibitem{4337601}
+Randall~M. Mealey.
+\newblock A method for calculating error probabilities in a radar communication
+  system.
+\newblock {\em IEEE Transactions on Space Electronics and Telemetry},
+  9(2):37--42, 1963.
+
+\bibitem{8930009}
+David Cohen, Deborah Cohen, and Yonina~C. Eldar.
+\newblock High resolution fdma mimo radar.
+\newblock {\em IEEE Transactions on Aerospace and Electronic Systems},
+  56(4):2806--2822, 2020.
+
+\bibitem{5595728}
+Thomas~L. Marzetta.
+\newblock Noncooperative cellular wireless with unlimited numbers of base
+  station antennas.
+\newblock {\em IEEE Transactions on Wireless Communications}, 9(11):3590--3600,
+  2010.
+
+\bibitem{5419124}
+Aboulnasr Hassanien and Sergiy~A. Vorobyov.
+\newblock Phased-mimo radar: A tradeoff between phased-array and mimo radars.
+\newblock {\em IEEE Transactions on Signal Processing}, 58(6):3137--3151, 2010.
+
+\bibitem{10.1145/3310194}
+Yongsen Ma, Gang Zhou, and Shuangquan Wang.
+\newblock Wifi sensing with channel state information: A survey.
+\newblock {\em ACM Comput. Surv.}, 52(3), June 2019.
+
+\bibitem{kay1998fundamentals}
+Steven~M. Kay.
+\newblock {\em Fundamentals of Statistical Signal Processing: Detection
+  Theory}, volume~2.
+\newblock Prentice-Hall, Englewood Cliffs, NJ, USA, 1998.
+
+\bibitem{restuccia2021ieee}
+Francesco Restuccia.
+\newblock {IEEE} 802.11bf: Toward ubiquitous {W}i-{F}i sensing.
+\newblock {\em arXiv preprint arXiv:2103.14918}, 2021.
+
+\bibitem{tait2005introduction}
+Peter Tait.
+\newblock {\em Introduction to Radar Target Recognition}.
+\newblock The Institution of Engineering and Technology (IET), London, United
+  Kingdom, 2005.
+
+\bibitem{1412024}
+Dongning Guo, S.~Shamai, and S.~Verdu.
+\newblock Mutual information and minimum mean-square error in gaussian
+  channels.
+\newblock {\em IEEE Transactions on Information Theory}, 51(4):1261--1282,
+  2005.
+
+\bibitem{936166}
+A.~Sutivong, T.M. Cover, and Mung Chiang.
+\newblock Tradeoff between message and state information rates.
+\newblock In {\em Proceedings. 2001 IEEE International Symposium on Information
+  Theory (IEEE Cat. No.01CH37252)}, pages 303--, 2001.
+
+\bibitem{8437621}
+Mari Kobayashi, Giuseppe Caire, and Gerhard Kramer.
+\newblock Joint state sensing and communication: Optimal tradeoff for a
+  memoryless case.
+\newblock In {\em 2018 IEEE International Symposium on Information Theory
+  (ISIT)}, pages 111--115, 2018.
+
+\bibitem{8928165}
+Xingqin Lin, Jingya Li, Robert Baldemair, Jung-Fu~Thomas Cheng, Stefan
+  Parkvall, Daniel~Chen Larsson, Havish Koorapaty, Mattias Frenne, Sorour
+  Falahati, Asbjorn Grovlen, and Karl Werner.
+\newblock 5g new radio: Unveiling the essentials of the next generation
+  wireless access technology.
+\newblock {\em IEEE Communications Standards Magazine}, 3(3):30--37, 2019.
+
+\bibitem{7096298}
+Mugen Peng, Chonggang Wang, Vincent Lau, and H.~Vincent Poor.
+\newblock Fronthaul-constrained cloud radio access networks: insights and
+  challenges.
+\newblock {\em IEEE Wireless Communications}, 22(2):152--160, 2015.
+
+\end{thebibliography}
